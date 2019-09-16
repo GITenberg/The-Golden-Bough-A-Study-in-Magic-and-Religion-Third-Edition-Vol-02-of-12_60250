@@ -1,0 +1,32 @@
+_repo: The-Golden-Bough-A-Study-in-Magic-and-Religion-Third-Edition-Vol-02-of-12_60250
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frazer, James George
+    aliases:
+    - Frazer, J. G. (James George)
+    - Frazer, Sir James George
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '1241'
+    url: http://www.gutenberg.org/2009/agents/1241
+    wikipedia: http://en.wikipedia.org/wiki/James_Frazer
+description: ''
+gutenberg_issued: '2019-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology'
+- !lcsh 'Religion'
+- !lcc 'BL'
+- !lcsh 'Superstition'
+- !lcsh 'Magic'
+- GITenberg
+title: 'The Golden Bough: A Study in Magic and Religion (Third Edition, Vol. 02 of
+  12)'
+url: http://www.gutenberg.org/ebooks/60250
