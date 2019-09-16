@@ -1,5 +1,8 @@
 _repo: The-Golden-Bough-A-Study-in-Magic-and-Religion-Third-Edition-Vol-02-of-12_60250
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60250-h/images/cover.jpg
 creator:
   author:
     agent_name: Frazer, James George
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1241
     wikipedia: http://en.wikipedia.org/wiki/James_Frazer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60250#The-Golden-Bough-A-Study-in-Magic-and-Religion-Third-Edition-Vol-02-of-12
 gutenberg_issued: '2019-09-07'
 gutenberg_type: Text
 identifiers:
